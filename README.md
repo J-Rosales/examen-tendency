@@ -1,1 +1,6 @@
-Creado con ReactJS usando Routers en VSC
+Herramientas utilizadas:
+- VSC (editor)
+- ReactJS
+- React-Fontawesome
+- React-Bootstrap
+- Github Desktop
