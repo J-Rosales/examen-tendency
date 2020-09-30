@@ -3,11 +3,18 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
 import * as serviceWorker from './serviceWorker';
+import "bootswatch/dist/sandstone/bootstrap.min.css"; 
+import 'bootstrap/dist/css/bootstrap.min.css';
+import { BrowserRouter as Router, Route, Index } from 'react-router-dom';
+import Tabla from "./js/pages/Tabla";
+import Orden from "./js/pages/Orden";
 
 ReactDOM.render(
-  <React.StrictMode>
-    <App />
-  </React.StrictMode>,
+    <Router>
+      <Route path="/" component ={Tabla}>
+
+      </Route>
+    </Router>,
   document.getElementById('root')
 );
 

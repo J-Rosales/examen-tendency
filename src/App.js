@@ -38,15 +38,11 @@ class App extends Component {
         <div className="App">
           <ul>
             {orders.map(order => (
-              <li key={order.id}>
-                <ul>
-                  {order.items.map(item => (
-                    <li key ={item.id}>
-                      sku: {item.sku} | nombre: {item.name} | cantidad: {item.quantity} | precio: {item.price}
-                    </li>
-                  ))}
-                </ul>
-              </li>
+              order.items.map(item => (
+                <li key ={item.id}>
+                  sku: {item.sku} | nombre: {item.name} | cantidad: {item.quantity} | precio: {item.price}
+                </li>
+              ))
             ))}
           </ul>
         </div>
