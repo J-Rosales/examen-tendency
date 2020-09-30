@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/examen-tendency/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/examen-tendency/static/js/main.2b31255b.chunk.js",
+    "main.js.map": "/examen-tendency/static/js/main.2b31255b.chunk.js.map",
+    "runtime-main.js": "/examen-tendency/static/js/runtime-main.419f2761.js",
+    "runtime-main.js.map": "/examen-tendency/static/js/runtime-main.419f2761.js.map",
+    "static/css/2.97c59ffe.chunk.css": "/examen-tendency/static/css/2.97c59ffe.chunk.css",
+    "static/js/2.93d2b9b1.chunk.js": "/examen-tendency/static/js/2.93d2b9b1.chunk.js",
+    "static/js/2.93d2b9b1.chunk.js.map": "/examen-tendency/static/js/2.93d2b9b1.chunk.js.map",
+    "index.html": "/examen-tendency/index.html",
+    "precache-manifest.d1bc345f17436aa606f1661e414d0a76.js": "/examen-tendency/precache-manifest.d1bc345f17436aa606f1661e414d0a76.js",
+    "service-worker.js": "/examen-tendency/service-worker.js",
+    "static/css/2.97c59ffe.chunk.css.map": "/examen-tendency/static/css/2.97c59ffe.chunk.css.map",
+    "static/css/main.5ecd60fb.chunk.css.map": "/examen-tendency/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.93d2b9b1.chunk.js.LICENSE.txt": "/examen-tendency/static/js/2.93d2b9b1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.419f2761.js",
+    "static/css/2.97c59ffe.chunk.css",
+    "static/js/2.93d2b9b1.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.2b31255b.chunk.js"
+  ]
+}
